@@ -1,0 +1,148 @@
+body{
+	background-color: #d4d6b9;
+	color: #32213a;
+	font-family: Ariel, sans-serif;
+	letter-spacing: 0.003px;
+	font-size: 18px;
+	line-height: 30px
+}
+h1, h2, h3{
+	font-family: Source Sans Pro, sans-serif;
+}
+h2, h3{
+	color: #383b53;
+}
+img{
+	width: 400px;
+	border-radius: 50%
+}
+h1{
+	color: #5e6572;
+	font-weight: bold;
+	font-size: 45px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+h2{
+	font-weight: bold;
+	letter-spacing: 0.05px;
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+	color: #586994;
+}
+a:hover{
+	color: #7895F8;
+}
+#btn-blue{
+	background-color: #5e6572;
+	color: white;
+	font-size: 30px;
+	border-radius: 5px;
+	padding-top: : 50px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-bottom: 50px;
+}
+#btn-blue:hover{
+	background-color: #7d98a1;
+}
+#list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+#list-inline li{
+	display: inline;
+	font-size: 50px;
+	margin-left: 10px;
+}
+#list-inline a{
+	color: #383b53;
+}
+#list-inline a:hover{
+	color: #7895F8;
+}
+.container{
+	padding-top: 10px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+.container1{
+	background-color: white;
+	padding-top: 30px;
+	padding-bottom: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.container2{
+	background-color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.container3{
+	background-color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.container4{
+	background-color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.container5{
+	background-color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.container6{
+	background-color: white;
+	padding-top: 50px;
+	padding-bottom: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+@media (max-width: 700px) {
+	.container{
+		width: 600px;
+		padding: 0 20px;
+	}
+}
+@media (max-width: 300px) {
+	.container{
+		width: 200px;
+		padding: 0 10px;
+	}
+}
